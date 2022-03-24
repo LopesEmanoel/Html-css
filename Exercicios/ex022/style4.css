@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body {
+    background-image: url('imagens/pattern001.png');
+    background-size: 100px;
+    background-repeat: no-repeat;
+    border: 1px dashed black;
+    height: 98vh;
+    background-position: left bottom;
+}
